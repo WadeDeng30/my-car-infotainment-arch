@@ -1,0 +1,9 @@
+obj-y += display/lv_drv_disp_part_flush.o
+obj-y += input/lv_drv_indev.o
+obj-y += mcu/mcu_hal.o
+obj-y += radio/radio_hal.o
+obj-y += image/lzma_bmp.o
+obj-y += image/lzma_Parse_Picture.o
+obj-y += fb_lib/bg_bmp.o
+obj-y += fb_lib/fb_file.o
+obj-y += fb_lib/GaussBlur.o
